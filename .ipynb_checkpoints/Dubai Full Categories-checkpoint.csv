@@ -1,0 +1,449 @@
+,id,Category,name,pluralName,shortName
+0,56aa371be4b08b9a8d5734db,Arts & Entertainment,Amphitheater,Amphitheaters,Amphitheater
+1,4fceea171983d5d06c3e9823,Arts & Entertainment,Aquarium,Aquariums,Aquarium
+2,4bf58dd8d48988d1e1931735,Arts & Entertainment,Arcade,Arcades,Arcade
+3,4bf58dd8d48988d1e2931735,Arts & Entertainment,Art Gallery,Art Galleries,Art Gallery
+4,4bf58dd8d48988d1e4931735,Arts & Entertainment,Bowling Alley,Bowling Alleys,Bowling Alley
+5,4bf58dd8d48988d17c941735,Arts & Entertainment,Casino,Casinos,Casino
+6,52e81612bcbc57f1066b79e7,Arts & Entertainment,Circus,Circuses,Circus
+7,4bf58dd8d48988d18e941735,Arts & Entertainment,Comedy Club,Comedy Clubs,Comedy Club
+8,5032792091d4c4b30a586d5c,Arts & Entertainment,Concert Hall,Concert Halls,Concert Hall
+9,52e81612bcbc57f1066b79ef,Arts & Entertainment,Country Dance Club,Country Dance Clubs,Country Dance Club
+10,52e81612bcbc57f1066b79e8,Arts & Entertainment,Disc Golf,Disc Golf Courses,Disc Golf
+11,56aa371be4b08b9a8d573532,Arts & Entertainment,Exhibit,Exhibits,Exhibit
+12,4bf58dd8d48988d1f1931735,Arts & Entertainment,General Entertainment,General Entertainment,Entertainment
+13,52e81612bcbc57f1066b79ea,Arts & Entertainment,Go Kart Track,Go Kart Tracks,Go Kart
+14,4deefb944765f83613cdba6e,Arts & Entertainment,Historic Site,Historic Sites,Historic Site
+15,52e81612bcbc57f1066b79e6,Arts & Entertainment,Laser Tag,Laser Tag Places,Laser Tag
+16,5642206c498e4bfca532186c,Arts & Entertainment,Memorial Site,Memorial Sites,Memorial Site
+17,52e81612bcbc57f1066b79eb,Arts & Entertainment,Mini Golf,Mini Golf Courses,Mini Golf
+18,4bf58dd8d48988d17f941735,Arts & Entertainment,Movie Theater,Movie Theaters,Movie Theater
+19,4bf58dd8d48988d181941735,Arts & Entertainment,Museum,Museums,Museum
+20,4bf58dd8d48988d1e5931735,Arts & Entertainment,Music Venue,Music Venues,Music Venue
+21,4bf58dd8d48988d1f2931735,Arts & Entertainment,Performing Arts Venue,Performing Arts Venues,Performing Arts
+22,4bf58dd8d48988d1e3931735,Arts & Entertainment,Pool Hall,Pool Halls,Billiards
+23,507c8c4091d498d9fc8c67a9,Arts & Entertainment,Public Art,Public Art,Public Art
+24,56aa371be4b08b9a8d573514,Arts & Entertainment,Racecourse,Racecourses,Racecourse
+25,4bf58dd8d48988d1f4931735,Arts & Entertainment,Racetrack,Racetracks,Racetrack
+26,52e81612bcbc57f1066b79e9,Arts & Entertainment,Roller Rink,Roller Rinks,Roller Rink
+27,52e81612bcbc57f1066b79ec,Arts & Entertainment,Salsa Club,Salsa Clubs,Salsa Club
+28,4bf58dd8d48988d184941735,Arts & Entertainment,Stadium,Stadiums,Stadium
+29,4bf58dd8d48988d182941735,Arts & Entertainment,Theme Park,Theme Parks,Theme Park
+30,56aa371be4b08b9a8d573520,Arts & Entertainment,Tour Provider,Tour Providers,Tour Provider
+31,4bf58dd8d48988d193941735,Arts & Entertainment,Water Park,Water Parks,Water Park
+32,4bf58dd8d48988d17b941735,Arts & Entertainment,Zoo,Zoos,Zoo
+0,4bf58dd8d48988d198941735,College & University,College Academic Building,College Academic Buildings,Academic Building
+1,4bf58dd8d48988d197941735,College & University,College Administrative Building,College Administrative Buildings,Administrative Building
+2,4bf58dd8d48988d1af941735,College & University,College Auditorium,College Auditoriums,Auditorium
+3,4bf58dd8d48988d1b1941735,College & University,College Bookstore,College Bookstores,College Bookstore
+4,4bf58dd8d48988d1a1941735,College & University,College Cafeteria,College Cafeterias,Cafeteria
+5,4bf58dd8d48988d1a0941735,College & University,College Classroom,College Classrooms,Classroom
+6,4bf58dd8d48988d1b2941735,College & University,College Gym,College Gyms,Gym
+7,4bf58dd8d48988d1a5941735,College & University,College Lab,College Labs,Lab
+8,4bf58dd8d48988d1a7941735,College & University,College Library,College Libraries,Library
+9,4bf58dd8d48988d1aa941735,College & University,College Quad,College Quads,Quad
+10,4bf58dd8d48988d1a9941735,College & University,College Rec Center,College Rec Centers,Rec Center
+11,4bf58dd8d48988d1a3941735,College & University,College Residence Hall,College Residence Halls,Residence Hall
+12,4bf58dd8d48988d1b4941735,College & University,College Stadium,College Stadiums,Stadium
+13,4bf58dd8d48988d1ac941735,College & University,College Theater,College Theaters,Theater
+14,4bf58dd8d48988d1a2941735,College & University,Community College,Community Colleges,Community College
+15,4bf58dd8d48988d1b0941735,College & University,Fraternity House,Fraternity Houses,Frat House
+16,4bf58dd8d48988d1a8941735,College & University,General College & University,General Colleges & Universities,Education
+17,4bf58dd8d48988d1a6941735,College & University,Law School,Law Schools,Law School
+18,4bf58dd8d48988d1b3941735,College & University,Medical School,Medical Schools,Medical School
+19,4bf58dd8d48988d141941735,College & University,Sorority House,Sorority Houses,Sorority House
+20,4bf58dd8d48988d1ab941735,College & University,Student Center,Student Centers,Student Center
+21,4bf58dd8d48988d1ad941735,College & University,Trade School,Trade Schools,Trade School
+22,4bf58dd8d48988d1ae941735,College & University,University,Universities,University
+0,52f2ab2ebcbc57f1066b8b3b,Event,Christmas Market,Christmas Markets,Christmas Market
+1,5267e4d9e4b0ec79466e48c6,Event,Conference,Conferences,Conference
+2,5267e4d9e4b0ec79466e48c9,Event,Convention,Conventions,Convention
+3,5267e4d9e4b0ec79466e48c7,Event,Festival,Festivals,Festival
+4,58daa1558bbb0b01f18ec1fa,Event,Line / Queue,Lines / Queues,Line / Queue
+5,5267e4d9e4b0ec79466e48d1,Event,Music Festival,Music Festivals,Music Festival
+6,5267e4d9e4b0ec79466e48c8,Event,Other Event,Other Events,Other Event
+7,52741d85e4b0d5d1e3c6a6d9,Event,Parade,Parades,Parade
+8,5bae9231bedf3950379f89c5,Event,Sporting Event,Sporting Events,Sporting Event
+9,52f2ab2ebcbc57f1066b8b54,Event,Stoop Sale,Stoop Sales,Stoop Sale
+10,5267e4d8e4b0ec79466e48c5,Event,Street Fair,Street Fairs,Fair
+11,5bae9231bedf3950379f89c3,Event,Trade Fair,Trade Fairs,Trade Fair
+0,503288ae91d4c4b30a586d67,Food,Afghan Restaurant,Afghan Restaurants,Afghan
+1,4bf58dd8d48988d1c8941735,Food,African Restaurant,African Restaurants,African
+2,4bf58dd8d48988d14e941735,Food,American Restaurant,American Restaurants,American
+3,4bf58dd8d48988d142941735,Food,Asian Restaurant,Asian Restaurants,Asian
+4,4bf58dd8d48988d169941735,Food,Australian Restaurant,Australian Restaurants,Australian
+5,52e81612bcbc57f1066b7a01,Food,Austrian Restaurant,Austrian Restaurants,Austrian
+6,4bf58dd8d48988d1df931735,Food,BBQ Joint,BBQ Joints,BBQ
+7,4bf58dd8d48988d179941735,Food,Bagel Shop,Bagel Shops,Bagels
+8,4bf58dd8d48988d16a941735,Food,Bakery,Bakeries,Bakery
+9,5e179ee74ae8e90006e9a746,Food,Bangladeshi Restaurant,Bangladeshi Restaurants,Bangladeshi
+10,52e81612bcbc57f1066b7a02,Food,Belgian Restaurant,Belgian Restaurants,Belgian
+11,52e81612bcbc57f1066b79f1,Food,Bistro,Bistros,Bistro
+12,4bf58dd8d48988d143941735,Food,Breakfast Spot,Breakfast Spots,Breakfast
+13,52e81612bcbc57f1066b7a0c,Food,Bubble Tea Shop,Bubble Tea Shops,Bubble Tea
+14,52e81612bcbc57f1066b79f4,Food,Buffet,Buffets,Buffet
+15,4bf58dd8d48988d16c941735,Food,Burger Joint,Burger Joints,Burgers
+16,4bf58dd8d48988d128941735,Food,Cafeteria,Cafeterias,Cafeteria
+17,4bf58dd8d48988d16d941735,Food,Café,Cafés,Café
+18,4bf58dd8d48988d17a941735,Food,Cajun / Creole Restaurant,Cajun / Creole Restaurants,Cajun / Creole
+19,4bf58dd8d48988d144941735,Food,Caribbean Restaurant,Caribbean Restaurants,Caribbean
+20,5293a7d53cf9994f4e043a45,Food,Caucasian Restaurant,Caucasian Restaurants,Caucasian
+21,4bf58dd8d48988d1e0931735,Food,Coffee Shop,Coffee Shops,Coffee Shop
+22,52e81612bcbc57f1066b7a00,Food,Comfort Food Restaurant,Comfort Food Restaurants,Comfort Food
+23,52e81612bcbc57f1066b79f2,Food,Creperie,Creperies,Creperie
+24,52f2ae52bcbc57f1066b8b81,Food,Czech Restaurant,Czech Restaurants,Czech
+25,4bf58dd8d48988d146941735,Food,Deli / Bodega,Delis / Bodegas,Deli / Bodega
+26,4bf58dd8d48988d1d0941735,Food,Dessert Shop,Dessert Shops,Desserts
+27,4bf58dd8d48988d147941735,Food,Diner,Diners,Diner
+28,4bf58dd8d48988d148941735,Food,Donut Shop,Donut Shops,Donuts
+29,4bf58dd8d48988d108941735,Food,Dumpling Restaurant,Dumpling Restaurants,Dumplings
+30,5744ccdfe4b0c0459246b4d0,Food,Dutch Restaurant,Dutch Restaurants,Dutch
+31,4bf58dd8d48988d109941735,Food,Eastern European Restaurant,Eastern European Restaurants,Eastern European
+32,52e81612bcbc57f1066b7a05,Food,English Restaurant,English Restaurants,English
+33,4bf58dd8d48988d10b941735,Food,Falafel Restaurant,Falafel Restaurants,Falafel
+34,4bf58dd8d48988d16e941735,Food,Fast Food Restaurant,Fast Food Restaurants,Fast Food
+35,4edd64a0c7ddd24ca188df1a,Food,Fish & Chips Shop,Fish & Chips Shops,Fish & Chips
+36,52e81612bcbc57f1066b7a09,Food,Fondue Restaurant,Fondue Restaurants,Fondue
+37,4bf58dd8d48988d120951735,Food,Food Court,Food Courts,Food Court
+38,56aa371be4b08b9a8d57350b,Food,Food Stand,Food Stands,Food Stand
+39,4bf58dd8d48988d1cb941735,Food,Food Truck,Food Trucks,Food Truck
+40,4bf58dd8d48988d10c941735,Food,French Restaurant,French Restaurants,French
+41,4d4ae6fc7a7b7dea34424761,Food,Fried Chicken Joint,Fried Chicken Joints,Fried Chicken
+42,4bf58dd8d48988d155941735,Food,Gastropub,Gastropubs,Gastropub
+43,4bf58dd8d48988d10d941735,Food,German Restaurant,German Restaurants,German
+44,4c2cd86ed066bed06c3c5209,Food,Gluten-free Restaurant,Gluten-free Restaurants,Gluten-free
+45,4bf58dd8d48988d10e941735,Food,Greek Restaurant,Greek Restaurants,Greek
+46,52e81612bcbc57f1066b79ff,Food,Halal Restaurant,Halal Restaurants,Halal
+47,52e81612bcbc57f1066b79fe,Food,Hawaiian Restaurant,Hawaiian Restaurants,Hawaiian
+48,4bf58dd8d48988d16f941735,Food,Hot Dog Joint,Hot Dog Joints,Hot Dogs
+49,52e81612bcbc57f1066b79fa,Food,Hungarian Restaurant,Hungarian Restaurants,Hungarian
+50,4bf58dd8d48988d10f941735,Food,Indian Restaurant,Indian Restaurants,Indian
+51,52e81612bcbc57f1066b7a06,Food,Irish Pub,Irish Pubs,Irish
+52,4bf58dd8d48988d110941735,Food,Italian Restaurant,Italian Restaurants,Italian
+53,52e81612bcbc57f1066b79fd,Food,Jewish Restaurant,Jewish Restaurants,Jewish
+54,4bf58dd8d48988d112941735,Food,Juice Bar,Juice Bars,Juice Bar
+55,5283c7b4e4b094cb91ec88d7,Food,Kebab Restaurant,Kebab Restaurants,Kebab
+56,4bf58dd8d48988d1be941735,Food,Latin American Restaurant,Latin American Restaurants,Latin American
+57,4bf58dd8d48988d1c0941735,Food,Mediterranean Restaurant,Mediterranean Restaurants,Mediterranean
+58,4bf58dd8d48988d1c1941735,Food,Mexican Restaurant,Mexican Restaurants,Mexican
+59,4bf58dd8d48988d115941735,Food,Middle Eastern Restaurant,Middle Eastern Restaurants,Middle Eastern
+60,52e81612bcbc57f1066b79f9,Food,Modern European Restaurant,Modern European Restaurants,Modern European
+61,4bf58dd8d48988d1c2941735,Food,Molecular Gastronomy Restaurant,Molecular Gastronomy Restaurants,Molecular Gastronomy
+62,52e81612bcbc57f1066b79f8,Food,Pakistani Restaurant,Pakistani Restaurants,Pakistani
+63,56aa371be4b08b9a8d573508,Food,Pet Café,Pet Cafés,Pet Café
+64,4bf58dd8d48988d1ca941735,Food,Pizza Place,Pizza Places,Pizza
+65,52e81612bcbc57f1066b7a04,Food,Polish Restaurant,Polish Restaurants,Polish
+66,4def73e84765ae376e57713a,Food,Portuguese Restaurant,Portuguese Restaurants,Portuguese
+67,4bf58dd8d48988d1c4941735,Food,Restaurant,Restaurants,Restaurant
+68,5293a7563cf9994f4e043a44,Food,Russian Restaurant,Russian Restaurants,Russian
+69,4bf58dd8d48988d1bd941735,Food,Salad Place,Salad Places,Salad
+70,4bf58dd8d48988d1c5941735,Food,Sandwich Place,Sandwich Places,Sandwiches
+71,4bf58dd8d48988d1c6941735,Food,Scandinavian Restaurant,Scandinavian Restaurants,Scandinavian
+72,5744ccdde4b0c0459246b4a3,Food,Scottish Restaurant,Scottish Restaurants,Scottish
+73,4bf58dd8d48988d1ce941735,Food,Seafood Restaurant,Seafood Restaurants,Seafood
+74,56aa371be4b08b9a8d57355a,Food,Slovak Restaurant,Slovak Restaurants,Slovak
+75,4bf58dd8d48988d1c7941735,Food,Snack Place,Snack Places,Snacks
+76,4bf58dd8d48988d1dd931735,Food,Soup Place,Soup Places,Soup
+77,4bf58dd8d48988d14f941735,Food,Southern / Soul Food Restaurant,Southern / Soul Food Restaurants,Southern / Soul
+78,4bf58dd8d48988d150941735,Food,Spanish Restaurant,Spanish Restaurants,Spanish
+79,5413605de4b0ae91d18581a9,Food,Sri Lankan Restaurant,Sri Lankan Restaurants,Sri Lankan
+80,4bf58dd8d48988d1cc941735,Food,Steakhouse,Steakhouses,Steakhouse
+81,4bf58dd8d48988d158941735,Food,Swiss Restaurant,Swiss Restaurants,Swiss
+82,4bf58dd8d48988d1dc931735,Food,Tea Room,Tea Rooms,Tea Room
+83,56aa371be4b08b9a8d573538,Food,Theme Restaurant,Theme Restaurants,Theme Restaurant
+84,57558b36e4b065ecebd306dd,Food,Truck Stop,Truck Stops,Truck Stop
+85,4f04af1f2fb6e1c99f3db0bb,Food,Turkish Restaurant,Turkish Restaurants,Turkish
+86,52e928d0bcbc57f1066b7e96,Food,Ukrainian Restaurant,Ukrainian Restaurants,Ukrainian
+87,4bf58dd8d48988d1d3941735,Food,Vegetarian / Vegan Restaurant,Vegetarian / Vegan Restaurants,Vegetarian / Vegan
+88,4bf58dd8d48988d14c941735,Food,Wings Joint,Wings Joints,Wings
+0,4bf58dd8d48988d116941735,Nightlife Spot,Bar,Bars,Bar
+1,50327c8591d4c4b30a586d5d,Nightlife Spot,Brewery,Breweries,Brewery
+2,4bf58dd8d48988d121941735,Nightlife Spot,Lounge,Lounges,Lounge
+3,53e510b7498ebcb1801b55d4,Nightlife Spot,Night Market,Night Markets,Night Market
+4,4bf58dd8d48988d11f941735,Nightlife Spot,Nightclub,Nightclubs,Nightclub
+5,4bf58dd8d48988d11a941735,Nightlife Spot,Other Nightlife,Other Nightlife,Nightlife
+6,4bf58dd8d48988d1d6941735,Nightlife Spot,Strip Club,Strip Clubs,Strip Club
+0,4f4528bc4b90abdf24c9de85,Outdoors & Recreation,Athletics & Sports,Athletics & Sports,Athletics & Sports
+1,52e81612bcbc57f1066b7a28,Outdoors & Recreation,Bathing Area,Bathing Areas,Bathing Area
+2,56aa371be4b08b9a8d573544,Outdoors & Recreation,Bay,Bays,Bay
+3,4bf58dd8d48988d1e2941735,Outdoors & Recreation,Beach,Beaches,Beach
+4,56aa371be4b08b9a8d57355e,Outdoors & Recreation,Bike Trail,Bike Trails,Bike Trail
+5,52e81612bcbc57f1066b7a22,Outdoors & Recreation,Botanical Garden,Botanical Gardens,Botanical Garden
+6,4bf58dd8d48988d1df941735,Outdoors & Recreation,Bridge,Bridges,Bridge
+7,4bf58dd8d48988d1e4941735,Outdoors & Recreation,Campground,Campgrounds,Campground
+8,56aa371be4b08b9a8d57353b,Outdoors & Recreation,Canal Lock,Canal Locks,Canal Lock
+9,56aa371be4b08b9a8d573562,Outdoors & Recreation,Canal,Canals,Canal
+10,50aaa49e4b90af0d42d5de11,Outdoors & Recreation,Castle,Castles,Castle
+11,56aa371be4b08b9a8d573511,Outdoors & Recreation,Cave,Caves,Cave
+12,4bf58dd8d48988d15c941735,Outdoors & Recreation,Cemetery,Cemeteries,Cemetery
+13,52e81612bcbc57f1066b7a12,Outdoors & Recreation,Dive Spot,Dive Spots,Dive Spot
+14,4bf58dd8d48988d1e5941735,Outdoors & Recreation,Dog Run,Dog Runs,Dog Run
+15,4bf58dd8d48988d15b941735,Outdoors & Recreation,Farm,Farms,Farm
+16,4bf58dd8d48988d15f941735,Outdoors & Recreation,Field,Fields,Field
+17,52e81612bcbc57f1066b7a0f,Outdoors & Recreation,Fishing Spot,Fishing Spots,Fishing Spot
+18,52e81612bcbc57f1066b7a23,Outdoors & Recreation,Forest,Forests,Forest
+19,56aa371be4b08b9a8d573547,Outdoors & Recreation,Fountain,Fountains,Fountain
+20,4bf58dd8d48988d15a941735,Outdoors & Recreation,Garden,Gardens,Garden
+21,52e81612bcbc57f1066b7a11,Outdoors & Recreation,Gun Range,Gun Ranges,Gun Range
+22,4bf58dd8d48988d1e0941735,Outdoors & Recreation,Harbor / Marina,Harbors / Marinas,Harbor / Marina
+23,5bae9231bedf3950379f89cd,Outdoors & Recreation,Hill,Hills,Hill
+24,4bf58dd8d48988d160941735,Outdoors & Recreation,Hot Spring,Hot Springs,Hot Spring
+25,5744ccdfe4b0c0459246b4b5,Outdoors & Recreation,Indoor Play Area,Indoor Play Areas,Indoor Play Area
+26,50aaa4314b90af0d42d5de10,Outdoors & Recreation,Island,Islands,Island
+27,4bf58dd8d48988d161941735,Outdoors & Recreation,Lake,Lakes,Lake
+28,4bf58dd8d48988d15d941735,Outdoors & Recreation,Lighthouse,Lighthouses,Lighthouse
+29,4eb1d4d54b900d56c88a45fc,Outdoors & Recreation,Mountain,Mountains,Mountain
+30,52e81612bcbc57f1066b7a21,Outdoors & Recreation,National Park,National Parks,National Park
+31,52e81612bcbc57f1066b7a13,Outdoors & Recreation,Nature Preserve,Nature Preserves,Preserve
+32,4bf58dd8d48988d162941735,Outdoors & Recreation,Other Great Outdoors,Other Great Outdoors,Other Outdoors
+33,52e81612bcbc57f1066b7a14,Outdoors & Recreation,Palace,Palaces,Palace
+34,4bf58dd8d48988d163941735,Outdoors & Recreation,Park,Parks,Park
+35,52e81612bcbc57f1066b7a25,Outdoors & Recreation,Pedestrian Plaza,Pedestrian Plazas,Pedestrian Street/Plaza
+36,4bf58dd8d48988d1e7941735,Outdoors & Recreation,Playground,Playgrounds,Playground
+37,4bf58dd8d48988d164941735,Outdoors & Recreation,Plaza,Plazas,Plaza
+38,4bf58dd8d48988d15e941735,Outdoors & Recreation,Pool,Pools,Pool
+39,52e81612bcbc57f1066b7a29,Outdoors & Recreation,Rafting,Rafting Spots,Rafting
+40,52e81612bcbc57f1066b7a26,Outdoors & Recreation,Recreation Center,Recreation Centers,Recreation Center
+41,56aa371be4b08b9a8d573541,Outdoors & Recreation,Reservoir,Reservoirs,Reservoir
+42,4eb1d4dd4b900d56c88a45fd,Outdoors & Recreation,River,Rivers,River
+43,50328a4b91d4c4b30a586d6b,Outdoors & Recreation,Rock Climbing Spot,Rock Climbing Spots,Rock Climbing
+44,4bf58dd8d48988d133951735,Outdoors & Recreation,Roof Deck,Roof Decks,Roof Deck
+45,4bf58dd8d48988d165941735,Outdoors & Recreation,Scenic Lookout,Scenic Lookouts,Scenic Lookout
+46,4bf58dd8d48988d166941735,Outdoors & Recreation,Sculpture Garden,Sculpture Gardens,Sculpture
+47,4bf58dd8d48988d1e9941735,Outdoors & Recreation,Ski Area,Ski Areas,Ski Area
+48,58daa1558bbb0b01f18ec1b9,Outdoors & Recreation,Skydiving Drop Zone,Skydiving Drop Zones,Drop Zone
+49,4eb1baf03b7b2c5b1d4306ca,Outdoors & Recreation,Stables,Stables,Stables
+50,5bae9231bedf3950379f89d0,Outdoors & Recreation,State / Provincial Park,State / Provincial Parks,State / Provincial Park
+51,530e33ccbcbc57f1066bbfe4,Outdoors & Recreation,States & Municipalities,States & Municipalities,States & Municipalities
+52,52e81612bcbc57f1066b7a10,Outdoors & Recreation,Summer Camp,Summer Camps,Summer Camp
+53,4bf58dd8d48988d159941735,Outdoors & Recreation,Trail,Trails,Trail
+54,52e81612bcbc57f1066b7a24,Outdoors & Recreation,Tree,Trees,Tree
+55,4bf58dd8d48988d1de941735,Outdoors & Recreation,Vineyard,Vineyards,Vineyard
+56,5032848691d4c4b30a586d61,Outdoors & Recreation,Volcano,Volcanoes,Volcano
+57,56aa371be4b08b9a8d573560,Outdoors & Recreation,Waterfall,Waterfalls,Waterfall
+58,56aa371be4b08b9a8d5734c3,Outdoors & Recreation,Waterfront,Waterfronts,Waterfront
+59,4fbc1be21983fc883593e321,Outdoors & Recreation,Well,Wells,Well
+60,5bae9231bedf3950379f89c7,Outdoors & Recreation,Windmill,Windmills,Windmill
+0,4e52d2d203646f7c19daa8ae,Professional & Other Places,Animal Shelter,Animal Shelters,Animal Shelter
+1,58daa1558bbb0b01f18ec1d6,Professional & Other Places,Art Studio,Art Studios,Art Studio
+2,4bf58dd8d48988d173941735,Professional & Other Places,Auditorium,Auditoriums,Auditorium
+3,56aa371be4b08b9a8d5734cf,Professional & Other Places,Ballroom,Ballrooms,Ballroom
+4,4bf58dd8d48988d130941735,Professional & Other Places,Building,Buildings,Building
+5,56aa371be4b08b9a8d573517,Professional & Other Places,Business Center,Business Centers,Business Center
+6,52e81612bcbc57f1066b7a35,Professional & Other Places,Club House,Club Houses,Club
+7,52e81612bcbc57f1066b7a34,Professional & Other Places,Community Center,Community Centers,Community Center
+8,4bf58dd8d48988d1ff931735,Professional & Other Places,Convention Center,Convention Centers,Convention Center
+9,52e81612bcbc57f1066b7a32,Professional & Other Places,Cultural Center,Cultural Centers,Cultural Center
+10,4e0e22f5a56208c4ea9a85a0,Professional & Other Places,Distillery,Distilleries,Distillery
+11,52e81612bcbc57f1066b7a37,Professional & Other Places,Distribution Center,Distribution Centers,Distributor
+12,4bf58dd8d48988d171941735,Professional & Other Places,Event Space,Event Spaces,Event Space
+13,4eb1bea83b7b6f98df247e06,Professional & Other Places,Factory,Factories,Factory
+14,4eb1daf44b900d56c88a4600,Professional & Other Places,Fair,Fairs,Fair
+15,4f4534884b9074f6e4fb0174,Professional & Other Places,Funeral Home,Funeral Homes,Funeral Home
+16,4bf58dd8d48988d126941735,Professional & Other Places,Government Building,Government Buildings,Government
+17,56aa371be4b08b9a8d5734d7,Professional & Other Places,Industrial Estate,Industrial Estates,Industrial Estate
+18,5744ccdfe4b0c0459246b4d6,Professional & Other Places,Laboratory,Laboratories,Laboratory
+19,4bf58dd8d48988d12f941735,Professional & Other Places,Library,Libraries,Library
+20,4bf58dd8d48988d104941735,Professional & Other Places,Medical Center,Medical Centers,Medical
+21,4e52adeebd41615f56317744,Professional & Other Places,Military Base,Military Bases,Military Base
+22,50328a8e91d4c4b30a586d6c,Professional & Other Places,Non-Profit,Non-Profits,Non-Profit
+23,5744ccdfe4b0c0459246b4d9,Professional & Other Places,Observatory,Observatories,Observatory
+24,4bf58dd8d48988d124941735,Professional & Other Places,Office,Offices,Office
+25,4c38df4de52ce0d596b336e1,Professional & Other Places,Parking,Parking,Parking
+26,4bf58dd8d48988d172941735,Professional & Other Places,Post Office,Post Offices,Post Office
+27,58daa1548bbb0b01f18ec1a9,Professional & Other Places,Power Plant,Power Plants,Power Plant
+28,5310b8e5bcbc57f1066bcbf1,Professional & Other Places,Prison,Prisons,Prison
+29,5032856091d4c4b30a586d63,Professional & Other Places,Radio Station,Radio Stations,Radio Station
+30,52f2ab2ebcbc57f1066b8b57,Professional & Other Places,Recruiting Agency,Recruiting Agencies,Recruiting Agency
+31,58daa1558bbb0b01f18ec1b2,Professional & Other Places,Research Station,Research Stations,Research Station
+32,4bf58dd8d48988d13b941735,Professional & Other Places,School,Schools,School
+33,52e81612bcbc57f1066b7a33,Professional & Other Places,Social Club,Social Clubs,Social Club
+34,4bf58dd8d48988d131941735,Professional & Other Places,Spiritual Center,Spiritual Centers,Spiritual
+35,52e81612bcbc57f1066b7a31,Professional & Other Places,TV Station,TV Stations,TV Station
+36,4cae28ecbf23941eb1190695,Professional & Other Places,Voting Booth,Voting Booths,Voting Booth
+37,52e81612bcbc57f1066b7a36,Professional & Other Places,Warehouse,Warehouses,Warehouse
+38,58daa1558bbb0b01f18ec1ac,Professional & Other Places,Waste Facility,Waste Facilities,Waste Facility
+39,56aa371be4b08b9a8d5734c5,Professional & Other Places,Wedding Hall,Wedding Halls,Wedding Hall
+40,4bf58dd8d48988d14b941735,Professional & Other Places,Winery,Wineries,Winery
+0,5032891291d4c4b30a586d68,Residence,Assisted Living,Assisted Living,Assisted Living
+1,4bf58dd8d48988d103941735,Residence,Home (private),Homes (private),Home
+2,4f2a210c4b9023bd5841ed28,Residence,Housing Development,Housing Developments,Housing Development
+3,4d954b06a243a5684965b473,Residence,Residential Building (Apartment / Condo),Residential Buildings (Apartments / Condos),Residential
+4,52f2ab2ebcbc57f1066b8b55,Residence,Trailer Park,Trailer Parks,Trailer Park
+0,52f2ab2ebcbc57f1066b8b56,Shop & Service,ATM,ATMs,ATM
+1,5267e446e4b0ec79466e48c4,Shop & Service,Adult Boutique,Adult Boutiques,Adult Boutique
+2,4bf58dd8d48988d116951735,Shop & Service,Antique Shop,Antique Shops,Antiques
+3,4bf58dd8d48988d127951735,Shop & Service,Arts & Crafts Store,Arts & Crafts Stores,Arts & Crafts
+4,52f2ab2ebcbc57f1066b8b43,Shop & Service,Astrologer,Astrologers,Astrologer
+5,4eb1c1623b7b52c0e1adc2ec,Shop & Service,Auto Dealership,Auto Dealerships,Auto Dealer
+6,52f2ab2ebcbc57f1066b8b44,Shop & Service,Auto Garage,Auto Garages,Auto Garage
+7,56aa371be4b08b9a8d5734d3,Shop & Service,Auto Workshop,Auto Workshops,Auto Workshop
+8,4bf58dd8d48988d124951735,Shop & Service,Automotive Shop,Automotive Shops,Automotive
+9,52f2ab2ebcbc57f1066b8b32,Shop & Service,Baby Store,Baby Stores,Baby Store
+10,4bf58dd8d48988d10a951735,Shop & Service,Bank,Banks,Bank
+11,52e81612bcbc57f1066b7a27,Shop & Service,Bath House,Bath Houses,Bath House
+12,52f2ab2ebcbc57f1066b8b40,Shop & Service,Betting Shop,Betting Shops,Betting Shop
+13,52f2ab2ebcbc57f1066b8b42,Shop & Service,Big Box Store,Big Box Stores,Big Box Store
+14,4bf58dd8d48988d115951735,Shop & Service,Bike Shop,Bike Shops,Bike Shop
+15,4bf58dd8d48988d1f1941735,Shop & Service,Board Shop,Board Shops,Board Shop
+16,4bf58dd8d48988d114951735,Shop & Service,Bookstore,Bookstores,Bookstore
+17,4bf58dd8d48988d11a951735,Shop & Service,Bridal Shop,Bridal Shops,Bridal
+18,5453de49498eade8af355881,Shop & Service,Business Service,Business Services,Business Services
+19,4eb1bdf03b7b55596b4a7491,Shop & Service,Camera Store,Camera Stores,Camera Store
+20,4bf58dd8d48988d117951735,Shop & Service,Candy Store,Candy Stores,Candy Store
+21,4f04ae1f2fb6e1c99f3db0ba,Shop & Service,Car Wash,Car Washes,Car Washes
+22,52f2ab2ebcbc57f1066b8b2a,Shop & Service,Carpet Store,Carpet Stores,Carpet Store
+23,52f2ab2ebcbc57f1066b8b2d,Shop & Service,Check Cashing Service,Check Cashing Services,Check Cashing Service
+24,5744ccdfe4b0c0459246b4c7,Shop & Service,Child Care Service,Child Care Services,Child Care
+25,52f2ab2ebcbc57f1066b8b31,Shop & Service,Chocolate Shop,Chocolate Shops,Chocolate Shop
+26,4bf58dd8d48988d103951735,Shop & Service,Clothing Store,Clothing Stores,Apparel
+27,52f2ab2ebcbc57f1066b8b18,Shop & Service,Comic Shop,Comic Shops,Comic Shop
+28,5454144b498ec1f095bff2f2,Shop & Service,Construction & Landscaping,Construction & Landscaping,Construction
+29,4d954b0ea243a5684a65b473,Shop & Service,Convenience Store,Convenience Stores,Convenience Store
+30,4bf58dd8d48988d10c951735,Shop & Service,Cosmetics Shop,Cosmetics Shops,Cosmetics
+31,52f2ab2ebcbc57f1066b8b17,Shop & Service,Costume Shop,Costume Shops,Costume Shop
+32,5032850891d4c4b30a586d62,Shop & Service,Credit Union,Credit Unions,Credit Union
+33,5744ccdfe4b0c0459246b4be,Shop & Service,Currency Exchange,Currency Exchanges,Currency Exchange
+34,4bf58dd8d48988d1f6941735,Shop & Service,Department Store,Department Stores,Department Store
+35,4bf58dd8d48988d1f4941735,Shop & Service,Design Studio,Design Studios,Design
+36,52dea92d3cf9994f4e043dbb,Shop & Service,Discount Store,Discount Stores,Discount Store
+37,52f2ab2ebcbc57f1066b8b1a,Shop & Service,Dive Shop,Dive Shops,Dive Shop
+38,5745c2e4498e11e7bccabdbd,Shop & Service,Drugstore,Drugstores,Drugstore
+39,52f2ab2ebcbc57f1066b8b1d,Shop & Service,Dry Cleaner,Dry Cleaners,Dry Cleaner
+40,5032872391d4c4b30a586d64,Shop & Service,EV Charging Station,EV Charging Stations,EV Charging
+41,4bf58dd8d48988d122951735,Shop & Service,Electronics Store,Electronics Stores,Electronics
+42,56aa371be4b08b9a8d573554,Shop & Service,Entertainment Service,Entertainment Services,Entertainment Service
+43,5454152e498ef71e2b9132c6,Shop & Service,Event Service,Event Services,Event Services
+44,52f2ab2ebcbc57f1066b8b26,Shop & Service,Fabric Shop,Fabric Shops,Fabric Shop
+45,56aa371be4b08b9a8d573523,Shop & Service,Film Studio,Film Studios,Film Studio
+46,503287a291d4c4b30a586d65,Shop & Service,Financial or Legal Service,Financial or Legal Services,Financial / Legal
+47,52f2ab2ebcbc57f1066b8b3a,Shop & Service,Fireworks Store,Fireworks Stores,Fireworks Store
+48,52f2ab2ebcbc57f1066b8b16,Shop & Service,Fishing Store,Fishing Stores,Fishing Store
+49,4bf58dd8d48988d1f7941735,Shop & Service,Flea Market,Flea Markets,Flea Market
+50,56aa371be4b08b9a8d573505,Shop & Service,Floating Market,Floating Markets,Floating Market
+51,4bf58dd8d48988d11b951735,Shop & Service,Flower Shop,Flower Shops,Flower Shop
+52,4bf58dd8d48988d1f9941735,Shop & Service,Food & Drink Shop,Food & Drink Shops,Food & Drink
+53,52f2ab2ebcbc57f1066b8b24,Shop & Service,Frame Store,Frame Stores,Frame Store
+54,52f2ab2ebcbc57f1066b8b1c,Shop & Service,Fruit & Vegetable Store,Fruit & Vegetable Stores,Fruit & Vegetable Store
+55,4bf58dd8d48988d1f8941735,Shop & Service,Furniture / Home Store,Furniture / Home Stores,Furniture / Home
+56,4bf58dd8d48988d18d941735,Shop & Service,Gaming Cafe,Gaming Cafes,Gaming Cafe
+57,4eb1c0253b7b52c0e1adc2e9,Shop & Service,Garden Center,Garden Centers,Garden Center
+58,4bf58dd8d48988d113951735,Shop & Service,Gas Station,Gas Stations,Gas Station
+59,4bf58dd8d48988d128951735,Shop & Service,Gift Shop,Gift Shops,Gift Shop
+60,52f2ab2ebcbc57f1066b8b19,Shop & Service,Gun Shop,Gun Shops,Gun Shop
+61,4bf58dd8d48988d112951735,Shop & Service,Hardware Store,Hardware Stores,Hardware
+62,54541900498ea6ccd0202697,Shop & Service,Health & Beauty Service,Health & Beauty Services,Health & Beauty
+63,52f2ab2ebcbc57f1066b8b2c,Shop & Service,Herbs & Spices Store,Herbs & Spices Stores,Herbs & Spices Store
+64,4bf58dd8d48988d1fb941735,Shop & Service,Hobby Shop,Hobby Shops,Hobbies
+65,545419b1498ea6ccd0202f58,Shop & Service,Home Service,Home Services & Repairs,Home Services
+66,50aaa5234b90af0d42d5de12,Shop & Service,Hunting Supply,Hunting Supplies,Hunting Supply
+67,52f2ab2ebcbc57f1066b8b36,Shop & Service,IT Services,IT Services,IT Services
+68,58daa1558bbb0b01f18ec1f1,Shop & Service,Insurance Office,Insurance Offices,Insurance Office
+69,4bf58dd8d48988d1f0941735,Shop & Service,Internet Cafe,Internet Cafes,Internet Cafe
+70,4bf58dd8d48988d111951735,Shop & Service,Jewelry Store,Jewelry Stores,Jewelry
+71,58daa1558bbb0b01f18ec1b4,Shop & Service,Kitchen Supply Store,Kitchen Supply Stores,Kitchen Supply
+72,52f2ab2ebcbc57f1066b8b25,Shop & Service,Knitting Store,Knitting Stores,Knitting Supplies
+73,52f2ab2ebcbc57f1066b8b33,Shop & Service,Laundromat,Laundromats,Laundromat
+74,4bf58dd8d48988d1fc941735,Shop & Service,Laundry Service,Laundry Services,Laundry
+75,52f2ab2ebcbc57f1066b8b3f,Shop & Service,Lawyer,Lawyers,Lawyer
+76,52f2ab2ebcbc57f1066b8b2b,Shop & Service,Leather Goods Store,Leather Goods Stores,Leather Goods
+77,52f2ab2ebcbc57f1066b8b1e,Shop & Service,Locksmith,Locksmiths,Locksmith
+78,52f2ab2ebcbc57f1066b8b38,Shop & Service,Lottery Retailer,Lottery Retailers,Lottery
+79,52f2ab2ebcbc57f1066b8b29,Shop & Service,Luggage Store,Luggage Stores,Luggage Store
+80,50be8ee891d4fa8dcc7199a7,Shop & Service,Market,Markets,Market
+81,52f2ab2ebcbc57f1066b8b3c,Shop & Service,Massage Studio,Massage Studios,Massage Studio
+82,52f2ab2ebcbc57f1066b8b27,Shop & Service,Mattress Store,Mattress Stores,Mattress Store
+83,58daa1558bbb0b01f18ec206,Shop & Service,Medical Supply Store,Medical Supply Stores,Medical Supply
+84,4bf58dd8d48988d1ff941735,Shop & Service,Miscellaneous Shop,Miscellaneous Shops,Shop
+85,4f04afc02fb6e1c99f3db0bc,Shop & Service,Mobile Phone Shop,Mobile Phone Shops,Mobile Phones
+86,56aa371be4b08b9a8d57354a,Shop & Service,Mobility Store,Mobility Stores,Mobility Store
+87,5032833091d4c4b30a586d60,Shop & Service,Motorcycle Shop,Motorcycle Shops,Motorcycle Shop
+88,59d79d6b2e268052fa2a3332,Shop & Service,Motorsports Shop,Motorsports Shops,Motorsports Shop
+89,4bf58dd8d48988d1fe941735,Shop & Service,Music Store,Music Stores,Music Store
+90,4f04aa0c2fb6e1c99f3db0b8,Shop & Service,Nail Salon,Nail Salons,Nail Salon
+91,4f04ad622fb6e1c99f3db0b9,Shop & Service,Newsstand,Newsstands,Newsstand
+92,5ae95d208a6f17002ce792b2,Shop & Service,Notary,Notaries,Notary
+93,4d954afda243a5684865b473,Shop & Service,Optical Shop,Optical Shops,Optical
+94,52f2ab2ebcbc57f1066b8b2f,Shop & Service,Other Repair Shop,Other Repair Shops,Other Repair
+95,52f2ab2ebcbc57f1066b8b22,Shop & Service,Outdoor Supply Store,Outdoor Supply Stores,Outdoor Supplies
+96,5744ccdfe4b0c0459246b4df,Shop & Service,Outlet Mall,Outlet Malls,Outlet Mall
+97,52f2ab2ebcbc57f1066b8b35,Shop & Service,Outlet Store,Outlet Stores,Outlet Store
+98,4bf58dd8d48988d121951735,Shop & Service,Paper / Office Supplies Store,Paper / Office Supplies Stores,Office Supplies
+99,52f2ab2ebcbc57f1066b8b34,Shop & Service,Pawn Shop,Pawn Shops,Pawn Shop
+100,52f2ab2ebcbc57f1066b8b23,Shop & Service,Perfume Shop,Perfume Shops,Perfume Shop
+101,5032897c91d4c4b30a586d69,Shop & Service,Pet Service,Pet Services,Pet Service
+102,4bf58dd8d48988d100951735,Shop & Service,Pet Store,Pet Stores,Pet Store
+103,4bf58dd8d48988d10f951735,Shop & Service,Pharmacy,Pharmacies,Pharmacy
+104,4eb1bdde3b7b55596b4a7490,Shop & Service,Photography Lab,Photography Labs,Photography Lab
+105,554a5e17498efabeda6cc559,Shop & Service,Photography Studio,Photography Studios,Photo Studio
+106,52f2ab2ebcbc57f1066b8b20,Shop & Service,Piercing Parlor,Piercing Parlors,Piercing Parlor
+107,52f2ab2ebcbc57f1066b8b3d,Shop & Service,Pop-Up Shop,Pop-Up Shops,Pop-Up Shop
+108,52f2ab2ebcbc57f1066b8b28,Shop & Service,Print Shop,Print Shops,Print Shop
+109,5744ccdfe4b0c0459246b4c4,Shop & Service,Public Bathroom,Public Bathrooms,Public Bathroom
+110,5032885091d4c4b30a586d66,Shop & Service,Real Estate Office,Real Estate Offices,Real Estate
+111,4bf58dd8d48988d10d951735,Shop & Service,Record Shop,Record Shops,Record Shop
+112,52f2ab2ebcbc57f1066b8b37,Shop & Service,Recording Studio,Recording Studios,Recording Studio
+113,4f4531084b9074f6e4fb0101,Shop & Service,Recycling Facility,Recycling Facilities,Recycling
+114,56aa371be4b08b9a8d573552,Shop & Service,Rental Service,Rental Services,Rental Service
+115,4bf58dd8d48988d110951735,Shop & Service,Salon / Barbershop,Salons / Barbershops,Salon / Barbershop
+116,58daa1558bbb0b01f18ec1ae,Shop & Service,Sauna / Steam Room,Saunas / Steam Rooms,Sauna / Steam Room
+117,52f2ab2ebcbc57f1066b8b1f,Shop & Service,Shipping Store,Shipping Stores,Shipping Store
+118,52f2ab2ebcbc57f1066b8b39,Shop & Service,Shoe Repair,Shoe Repair Shops,Shoe Repair
+119,4bf58dd8d48988d1fd941735,Shop & Service,Shopping Mall,Shopping Malls,Mall
+120,5744ccdfe4b0c0459246b4dc,Shop & Service,Shopping Plaza,Shopping Plazas,Shopping Plaza
+121,5bae9231bedf3950379f89d2,Shop & Service,Skate Shop,Skate Shops,Skate Shop
+122,56aa371be4b08b9a8d573566,Shop & Service,Ski Shop,Ski Shops,Ski Shop
+123,4bf58dd8d48988d123951735,Shop & Service,Smoke Shop,Smoke Shops,Smoke Shop
+124,52f2ab2ebcbc57f1066b8b41,Shop & Service,Smoothie Shop,Smoothie Shops,Smoothie Shop
+125,52f2ab2ebcbc57f1066b8b1b,Shop & Service,Souvenir Shop,Souvenir Shops,Souvenir Shop
+126,4bf58dd8d48988d1ed941735,Shop & Service,Spa,Spas,Spa
+127,4bf58dd8d48988d1f2941735,Shop & Service,Sporting Goods Shop,Sporting Goods Shops,Sporting Goods
+128,52f2ab2ebcbc57f1066b8b21,Shop & Service,Stationery Store,Stationery Stores,Stationery Store
+129,4f04b1572fb6e1c99f3db0bf,Shop & Service,Storage Facility,Storage Facilities,Storage
+130,5744ccdfe4b0c0459246b4cd,Shop & Service,Supplement Shop,Supplement Shops,Supplement Shop
+131,5032781d91d4c4b30a586d5b,Shop & Service,Tailor Shop,Tailor Shops,Tailor
+132,4d1cf8421a97d635ce361c31,Shop & Service,Tanning Salon,Tanning Salons,Tanning Salon
+133,4bf58dd8d48988d1de931735,Shop & Service,Tattoo Parlor,Tattoo Parlors,Tattoo
+134,4bf58dd8d48988d101951735,Shop & Service,Thrift / Vintage Store,Thrift / Vintage Stores,Thrift / Vintage
+135,4bf58dd8d48988d1f3941735,Shop & Service,Toy / Game Store,Toy / Game Stores,Toys & Games
+136,4f04b08c2fb6e1c99f3db0bd,Shop & Service,Travel Agency,Travel Agencies,Travel Agency
+137,52f2ab2ebcbc57f1066b8b30,Shop & Service,Used Bookstore,Used Bookstores,Used Bookstore
+138,56aa371be4b08b9a8d57355c,Shop & Service,Vape Store,Vape Stores,Vape Store
+139,4bf58dd8d48988d10b951735,Shop & Service,Video Game Store,Video Game Stores,Video Games
+140,4bf58dd8d48988d126951735,Shop & Service,Video Store,Video Stores,Video Store
+141,52e816a6bcbc57f1066b7a54,Shop & Service,Warehouse Store,Warehouse Stores,Warehouse Store
+142,52f2ab2ebcbc57f1066b8b2e,Shop & Service,Watch Shop,Watch Shops,Watch Shops
+0,4bf58dd8d48988d1ed931735,Travel & Transport,Airport,Airports,Airport
+1,5744ccdfe4b0c0459246b4e8,Travel & Transport,Baggage Locker,Baggage Lockers,Baggage Locker
+2,4e4c9077bd41f78e849722f9,Travel & Transport,Bike Rental / Bike Share,Bike Rentals / Bike Shares,Bike
+3,5744ccdfe4b0c0459246b4c1,Travel & Transport,Boat Rental,Boat Rentals,Boat Rental
+4,4bf58dd8d48988d12d951735,Travel & Transport,Boat or Ferry,Boats or Ferries,Boat / Ferry
+5,52f2ab2ebcbc57f1066b8b4b,Travel & Transport,Border Crossing,Border Crossings,Border Crossing
+6,4bf58dd8d48988d1fe931735,Travel & Transport,Bus Station,Bus Stations,Bus Station
+7,52f2ab2ebcbc57f1066b8b4f,Travel & Transport,Bus Stop,Bus Stops,Bus Stop
+8,52f2ab2ebcbc57f1066b8b50,Travel & Transport,Cable Car,Cable Cars,Cable Car
+9,55077a22498e5e9248869ba2,Travel & Transport,Cruise,Cruises,Cruise
+10,589ddde98ae3635c072819ee,Travel & Transport,Duty-free Shop,Duty-free Shops,Duty-free
+11,4bf58dd8d48988d1f6931735,Travel & Transport,General Travel,General Travel,Travel
+12,56aa371ce4b08b9a8d57356e,Travel & Transport,Heliport,Heliports,Heliport
+13,4bf58dd8d48988d1fa931735,Travel & Transport,Hotel,Hotels,Hotel
+14,52f2ab2ebcbc57f1066b8b4c,Travel & Transport,Intersection,Intersections,Intersection
+15,4bf58dd8d48988d1fc931735,Travel & Transport,Light Rail Station,Light Rail Stations,Light Rail
+16,4bf58dd8d48988d1fd931735,Travel & Transport,Metro Station,Metro Stations,Metro
+17,4f2a23984b9023bd5841ed2c,Travel & Transport,Moving Target,Moving Targets,Moving Target
+18,4e74f6cabd41c4836eac4c31,Travel & Transport,Pier,Piers,Piers
+19,56aa371be4b08b9a8d57353e,Travel & Transport,Port,Ports,Port
+20,52f2ab2ebcbc57f1066b8b53,Travel & Transport,RV Park,RV Parks,RV Park
+21,4bf58dd8d48988d1ef941735,Travel & Transport,Rental Car Location,Rental Car Locations,Rental Car
+22,4d954b16a243a5684b65b473,Travel & Transport,Rest Area,Rest Areas,Rest Areas
+23,4bf58dd8d48988d1f9931735,Travel & Transport,Road,Roads,Road
+24,53fca564498e1a175f32528b,Travel & Transport,Taxi Stand,Taxi Stands,Taxi Stand
+25,4bf58dd8d48988d130951735,Travel & Transport,Taxi,Taxis,Taxi
+26,52f2ab2ebcbc57f1066b8b4d,Travel & Transport,Toll Booth,Toll Booths,Toll Booth
+27,52f2ab2ebcbc57f1066b8b4e,Travel & Transport,Toll Plaza,Toll Plazas,Toll Plaza
+28,4f4530164b9074f6e4fb00ff,Travel & Transport,Tourist Information Center,Tourist Information Centers,Tourist Information
+29,4bf58dd8d48988d129951735,Travel & Transport,Train Station,Train Stations,Train Station
+30,52f2ab2ebcbc57f1066b8b51,Travel & Transport,Tram Station,Tram Stations,Tram
+31,54541b70498ea6ccd0204bff,Travel & Transport,Transportation Service,Transportation Services,Transportation Services
+32,4f04b25d2fb6e1c99f3db0c0,Travel & Transport,Travel Lounge,Travel Lounges,Lounge
+33,52f2ab2ebcbc57f1066b8b4a,Travel & Transport,Tunnel,Tunnels,Tunnel
